@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">todoapp</string>
+    <string name="drop_table_if_existstodo_table">DROP TABLE IF EXISTSTODO_TABLE</string>
+</resources>
